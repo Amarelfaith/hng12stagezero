@@ -8,5 +8,5 @@ Make sure you have Python3 or later install
 Clone this repo using "git clone https://github.com/Amarelfaith/hng12stagezero"  
 Create a python environment  
 Install the dependencies with "pip install -r requirements.txt"  
-Then visit "127.0.0.1/profile" to access the data  
+Then visit "127.0.0.1:8000/profile" to access the data  
 
